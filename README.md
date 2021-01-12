@@ -2,8 +2,13 @@
 
 ```
 ├── README.md
-├── algorithm # 算法
-└── chanjet # 公司笔记
+├── algorithm             # 算法
+│   └── Array             # 数组相关
+├── chanjet               # 公司笔记
+│   ├── mobile-develop.md
+│   └── task              # 任务
+└── kit                   # 工具仓
+    └── git-common-operator.md
 ```
 
 ## JS
