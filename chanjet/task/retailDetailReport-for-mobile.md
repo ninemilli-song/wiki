@@ -19,3 +19,11 @@ saas-cc-node
 # h5-report
 saas-hsy-h5-report
 ```
+
+### 分支：
+
+> @songxg/retail-order-report
+
+### 报表访问地址
+
+[移动报表](https://test-chanjet-h5-hub.chanjet.com/report#/?appName=cc)
